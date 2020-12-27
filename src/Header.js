@@ -4,7 +4,7 @@ import Button from '@material-ui/core/Button';
 
 function Header() {
     return (
-        <div className="bg-white shadow-2xl w-full h-20 flex fixed">
+        <div className="bg-white shadow-2xl w-full h-20 flex fixed z-10">
 
             <MenuIcon className="mt-6 ml-12" />
 
